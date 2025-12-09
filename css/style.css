@@ -231,7 +231,7 @@ img{
 }
 /*MENU
 --------------------------------------*/
-.cover-memu{
+.cover-menu{
     background-image: url(../images/cover-menu-s.webp);
 }
 .grid{
@@ -252,7 +252,7 @@ img{
 -------------------------------------*/
 @media (min-width: 800px){
     /*MENU*/
-    .cover-memu{
+    .cover-menu{
         background-image: url(..//images/cover-menu-l.webp);
     }
     .grid{
