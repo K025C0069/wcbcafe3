@@ -229,6 +229,11 @@ img{
 .side-menu a:hover{
     color: #0bd;
 }
+/*MENU
+--------------------------------------*/
+.cover-memu{
+    background-image: url(../images/cover-menu-s.webp);
+}
 /*デスクトップ
 -------------------------------------*/
 @media (min-width: 800px){
